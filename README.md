@@ -8,6 +8,10 @@ If you want any content to be **private or removed**, just open an **issue** or 
 
 ---
 
+🔗 **Want more challenges?** Visit [**labs.foxfoster.com/vector**](https://labs.foxfoster.com/vector/) for additional CTF labs and cybersecurity challenges.
+
+---
+
 ## Writeups for root-me challenges of different categories..
 
 **App-Script      -  33 challenges  - [Starts Here](challenges/app-script/README.md)**
