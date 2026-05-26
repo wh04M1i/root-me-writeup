@@ -8,43 +8,43 @@
 
 1. **HTML - disabled buttons** — [read](writeups/1.md)
 2. **Javascript - Source** — [read](writeups/2.md)
-3. **Javascript - Authentication 2** — [read]()
-4. **Javascript - Obfuscation 1** — [read]()
-5. **Javascript - Obfuscation 2** — [read]()
-6. **Javascript - Authentication** — [read]()
-7. **Javascript - Native code** — [read]()
-8. **Javascript - Webpack** — [read]()
-9. **XSS DOM Based - Eval** — [read]()
-10. **XSS DOM Based - Filters Bypass** — [read]()
-11. **XSS - Stored 2** — [read]()
-12. **Javascript - Obfuscation 4** — [read]()
-13. **CSP Bypass - Dangling markup 2** — [read]()
-14. **XSS - Reflected** — [read]()
-15. **CSP Bypass - JSONP** — [read]()
-16. **CSP Bypass - Dangling markup** — [read]()
-17. **CSRF - token bypass** — [read]()
-18. **XSS DOM Based - AngularJS** — [read]()
-19. **CSP Bypass - Inline code** — [read]()
-20. **Flash - Authentication** — [read]()
-21. **XSS - Stored 1** — [read]()
-22. **AST - Deobfuscation** — [read]()
-23. **Javascript - Obfuscation 3** — [read]()
-24. **CSP Bypass - Nonce 2** — [read]()
-25. **CSRF - 0 protection** — [read]()
-26. **Web Socket - 0 protection** — [read]()
-27. **XSS DOM Based - Introduction** — [read]()
-28. **Browser - bfcache / disk cache** — [read]()
-29. **XSS - DOM Based** — [read]()
-30. **XSS - Stored - filter bypass** — [read]()
-31. **XS Leaks** — [read]()
-32. **Javascript - Obfuscation 5** — [read]()
-33. **HTTP Response Splitting** — [read]()
-34. **DOM Clobbering** — [read]()
-35. **Self XSS - Race Condition** — [read]()
-36. **Javascript - Obfuscation 6** — [read]()
-37. **CSP Bypass - Nonce** — [read]()
-38. **CSPT - The Ruler** — [read]()
-39. **Self XSS - DOM Secrets** — [read]()
-40. **Relative Path Overwrite** — [read]()
-41. **CSS - Exfiltration** — [read]()
-42. **Same Origin Method Execution** — [read]()
+3. **Javascript - Authentication 2** — *coming soon*
+4. **Javascript - Obfuscation 1** — *coming soon*
+5. **Javascript - Obfuscation 2** — *coming soon*
+6. **Javascript - Authentication** — *coming soon*
+7. **Javascript - Native code** — *coming soon*
+8. **Javascript - Webpack** — *coming soon*
+9. **XSS DOM Based - Eval** — *coming soon*
+10. **XSS DOM Based - Filters Bypass** — *coming soon*
+11. **XSS - Stored 2** — *coming soon*
+12. **Javascript - Obfuscation 4** — *coming soon*
+13. **CSP Bypass - Dangling markup 2** — *coming soon*
+14. **XSS - Reflected** — *coming soon*
+15. **CSP Bypass - JSONP** — *coming soon*
+16. **CSP Bypass - Dangling markup** — *coming soon*
+17. **CSRF - token bypass** — *coming soon*
+18. **XSS DOM Based - AngularJS** — *coming soon*
+19. **CSP Bypass - Inline code** — *coming soon*
+20. **Flash - Authentication** — *coming soon*
+21. **XSS - Stored 1** — *coming soon*
+22. **AST - Deobfuscation** — *coming soon*
+23. **Javascript - Obfuscation 3** — *coming soon*
+24. **CSP Bypass - Nonce 2** — *coming soon*
+25. **CSRF - 0 protection** — *coming soon*
+26. **Web Socket - 0 protection** — *coming soon*
+27. **XSS DOM Based - Introduction** — *coming soon*
+28. **Browser - bfcache / disk cache** — *coming soon*
+29. **XSS - DOM Based** — *coming soon*
+30. **XSS - Stored - filter bypass** — *coming soon*
+31. **XS Leaks** — *coming soon*
+32. **Javascript - Obfuscation 5** — *coming soon*
+33. **HTTP Response Splitting** — *coming soon*
+34. **DOM Clobbering** — *coming soon*
+35. **Self XSS - Race Condition** — *coming soon*
+36. **Javascript - Obfuscation 6** — *coming soon*
+37. **CSP Bypass - Nonce** — *coming soon*
+38. **CSPT - The Ruler** — *coming soon*
+39. **Self XSS - DOM Secrets** — *coming soon*
+40. **Relative Path Overwrite** — *coming soon*
+41. **CSS - Exfiltration** — *coming soon*
+42. **Same Origin Method Execution** — *coming soon*

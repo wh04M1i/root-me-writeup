@@ -7,37 +7,37 @@
 ## Start Reading
 
 1. **FTP - authentication** — [read](writeups/1.md)
-2. **ETHERNET - frame** — [read]()
-3. **TELNET - authentication** — [read]()
-4. **LDAP - null bind** — [read]()
-5. **RF - FM Transmission** — [read]()
-6. **RF - AM Transmission** — [read]()
-7. **POP - APOP** — [read]()
-8. **OSPF - Authentication** — [read]()
-9. **SIP - authentication** — [read]()
-10. **IP - Time To Live** — [read]()
-11. **DNS - zone transfert** — [read]()
-12. **CISCO - password** — [read]()
-13. **Bluetooth - Unknown file** — [read]()
-14. **Twitter authentication** — [read]()
-15. **NTLM - Authentication** — [read]()
-16. **Kerberos - Authentication** — [read]()
-17. **RF - L Band** — [read]()
-18. **XMPP - authentication** — [read]()
-19. **ARP Spoofing - Active listening** — [read]()
-20. **Analog video** — [read]()
-21. **ICMP payload** — [read]()
-22. **Wired Equivalent Privacy** — [read]()
-23. **Netfilter - common mistakes** — [read]()
-24. **SNMP - Authentification** — [read]()
-25. **SSL - HTTP exchange** — [read]()
-26. **HTTP - DNS Rebinding** — [read]()
-27. **Global System Traffic for Mobile communication** — [read]()
-28. **ETHERNET - Patched transmission** — [read]()
-29. **RF - Key Fixed Code** — [read]()
-30. **Data extraction** — [read]()
-31. **RF - Satellite transmission** — [read]()
-32. **WPA2 - Enterprise** — [read]()
-33. **ARP Spoofing - The man in the middle** — [read]()
-34. **RIPv1 - no authentication** — [read]()
-35. **WPA3 - SAE** — [read]()
+2. **ETHERNET - frame** — *coming soon*
+3. **TELNET - authentication** — *coming soon*
+4. **LDAP - null bind** — *coming soon*
+5. **RF - FM Transmission** — *coming soon*
+6. **RF - AM Transmission** — *coming soon*
+7. **POP - APOP** — *coming soon*
+8. **OSPF - Authentication** — *coming soon*
+9. **SIP - authentication** — *coming soon*
+10. **IP - Time To Live** — *coming soon*
+11. **DNS - zone transfert** — *coming soon*
+12. **CISCO - password** — *coming soon*
+13. **Bluetooth - Unknown file** — *coming soon*
+14. **Twitter authentication** — *coming soon*
+15. **NTLM - Authentication** — *coming soon*
+16. **Kerberos - Authentication** — *coming soon*
+17. **RF - L Band** — *coming soon*
+18. **XMPP - authentication** — *coming soon*
+19. **ARP Spoofing - Active listening** — *coming soon*
+20. **Analog video** — *coming soon*
+21. **ICMP payload** — *coming soon*
+22. **Wired Equivalent Privacy** — *coming soon*
+23. **Netfilter - common mistakes** — *coming soon*
+24. **SNMP - Authentification** — *coming soon*
+25. **SSL - HTTP exchange** — *coming soon*
+26. **HTTP - DNS Rebinding** — *coming soon*
+27. **Global System Traffic for Mobile communication** — *coming soon*
+28. **ETHERNET - Patched transmission** — *coming soon*
+29. **RF - Key Fixed Code** — *coming soon*
+30. **Data extraction** — *coming soon*
+31. **RF - Satellite transmission** — *coming soon*
+32. **WPA2 - Enterprise** — *coming soon*
+33. **ARP Spoofing - The man in the middle** — *coming soon*
+34. **RIPv1 - no authentication** — *coming soon*
+35. **WPA3 - SAE** — *coming soon*

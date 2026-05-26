@@ -37,69 +37,69 @@
 29. **Node - Serialize** — [read](writeups/29.md)
 30. **JWT - Unsecure Key Handling** — [read](writeups/30.md)
 31. **Elixir - EEx** — [read](writeups/31.md)
-32. **API - Broken Access 2** — [read]()
-33. **XSLT - Code execution** — [read]()
-34. **Yaml - Deserialization** — [read]()
-35. **XPath injection - String** — [read]()
-36. **GraphQL - Backend injection** — [read]()
-37. **File upload - Polyglot** — [read]()
-38. **SQL injection - Blind** — [read]()
-39. **Server Side Request Forgery** — [read]()
-40. **NodeJS - vm escape** — [read]()
-41. **SQL injection - Time based** — [read]()
-42. **NoSQL injection - Blind** — [read]()
-43. **NodeJS - Prototype Pollution Bypass** — [read]()
-44. **SQL injection - Authentication - GBK** — [read]()
-45. **GraphQL - Mutation** — [read]()
-46. **SQL injection - File reading** — [read]()
-47. **SQL injection - Insert** — [read]()
-48. **SQL injection - Error** — [read]()
-49. **PHP - Eval - Advanced filters bypass** — [read]()
-50. **PHP - Eval** — [read]()
-51. **Local File Inclusion - Wrappers** — [read]()
-52. **Java - Spring Boot** — [read]()
-53. **SQL injection - String** — [read]()
-54. **PHP - Loose Comparison** — [read]()
-55. **SQL injection - Authentication** — [read]()
-56. **Directory traversal** — [read]()
-57. **PHP - Apache configuration** — [read]()
-58. **Ruby on Rails - ransack** — [read]()
-59. **JWT - Unsecure File Signature** — [read]()
-60. **JWT - Weak secret** — [read]()
-61. **JWT - Revoked token** — [read]()
-62. **File upload - Null byte** — [read]()
-63. **XSS - Server Side** — [read]()
-64. **PHP - register globals** — [read]()
-65. **JWT - Introduction** — [read]()
-66. **Insecure Code Management** — [read]()
-67. **HTTP - Cookies** — [read]()
-68. **GraphQL - Introspection** — [read]()
-69. **Flask - Unsecure session** — [read]()
-70. **API - Mass Assignment** — [read]()
-71. **PHP - Filters** — [read]()
-72. **PHP - assert()** — [read]()
-73. **PHP - Remote Xdebug** — [read]()
-74. **Local File Inclusion** — [read]()
-75. **Remote File Inclusion** — [read]()
-76. **PHP - type juggling** — [read]()
-77. **PHP - preg_replace()** — [read]()
-78. **Python - Server-side Template Injection Introduction** — [read]()
-79. **Nginx - SSRF Misconfiguration** — [read]()
-80. **Local File Inclusion - Double encoding** — [read]()
-81. **Node - Eval** — [read]()
-82. **JWT - Header Injection** — [read]()
-83. **JWT - Public key** — [read]()
-84. **Java - Server-side Template Injection** — [read]()
-85. **Command injection - Filter bypass** — [read]()
-86. **GraphQL - Injection** — [read]()
-87. **Flask - Development server** — [read]()
-88. **File upload - ZIP** — [read]()
-89. **Java - Custom gadget deserialization** — [read]()
-90. **LDAP injection - Blind** — [read]()
-91. **PHP - Unserialize overflow** — [read]()
-92. **PHP - Unserialize Pop Chain** — [read]()
-93. **SQL Injection - Second Order** — [read]()
-94. **Python - dotenv** — [read]()
-95. **Python - Blind SSTI Filters Bypass** — [read]()
-96. **XPath injection - Blind** — [read]()
-97. **SQL injection - Filter bypass** — [read]()
+32. **API - Broken Access 2** — *coming soon*
+33. **XSLT - Code execution** — *coming soon*
+34. **Yaml - Deserialization** — *coming soon*
+35. **XPath injection - String** — *coming soon*
+36. **GraphQL - Backend injection** — *coming soon*
+37. **File upload - Polyglot** — *coming soon*
+38. **SQL injection - Blind** — *coming soon*
+39. **Server Side Request Forgery** — *coming soon*
+40. **NodeJS - vm escape** — *coming soon*
+41. **SQL injection - Time based** — *coming soon*
+42. **NoSQL injection - Blind** — *coming soon*
+43. **NodeJS - Prototype Pollution Bypass** — *coming soon*
+44. **SQL injection - Authentication - GBK** — *coming soon*
+45. **GraphQL - Mutation** — *coming soon*
+46. **SQL injection - File reading** — *coming soon*
+47. **SQL injection - Insert** — *coming soon*
+48. **SQL injection - Error** — *coming soon*
+49. **PHP - Eval - Advanced filters bypass** — *coming soon*
+50. **PHP - Eval** — *coming soon*
+51. **Local File Inclusion - Wrappers** — *coming soon*
+52. **Java - Spring Boot** — *coming soon*
+53. **SQL injection - String** — *coming soon*
+54. **PHP - Loose Comparison** — *coming soon*
+55. **SQL injection - Authentication** — *coming soon*
+56. **Directory traversal** — *coming soon*
+57. **PHP - Apache configuration** — *coming soon*
+58. **Ruby on Rails - ransack** — *coming soon*
+59. **JWT - Unsecure File Signature** — *coming soon*
+60. **JWT - Weak secret** — *coming soon*
+61. **JWT - Revoked token** — *coming soon*
+62. **File upload - Null byte** — *coming soon*
+63. **XSS - Server Side** — *coming soon*
+64. **PHP - register globals** — *coming soon*
+65. **JWT - Introduction** — *coming soon*
+66. **Insecure Code Management** — *coming soon*
+67. **HTTP - Cookies** — *coming soon*
+68. **GraphQL - Introspection** — *coming soon*
+69. **Flask - Unsecure session** — *coming soon*
+70. **API - Mass Assignment** — *coming soon*
+71. **PHP - Filters** — *coming soon*
+72. **PHP - assert()** — *coming soon*
+73. **PHP - Remote Xdebug** — *coming soon*
+74. **Local File Inclusion** — *coming soon*
+75. **Remote File Inclusion** — *coming soon*
+76. **PHP - type juggling** — *coming soon*
+77. **PHP - preg_replace()** — *coming soon*
+78. **Python - Server-side Template Injection Introduction** — *coming soon*
+79. **Nginx - SSRF Misconfiguration** — *coming soon*
+80. **Local File Inclusion - Double encoding** — *coming soon*
+81. **Node - Eval** — *coming soon*
+82. **JWT - Header Injection** — *coming soon*
+83. **JWT - Public key** — *coming soon*
+84. **Java - Server-side Template Injection** — *coming soon*
+85. **Command injection - Filter bypass** — *coming soon*
+86. **GraphQL - Injection** — *coming soon*
+87. **Flask - Development server** — *coming soon*
+88. **File upload - ZIP** — *coming soon*
+89. **Java - Custom gadget deserialization** — *coming soon*
+90. **LDAP injection - Blind** — *coming soon*
+91. **PHP - Unserialize overflow** — *coming soon*
+92. **PHP - Unserialize Pop Chain** — *coming soon*
+93. **SQL Injection - Second Order** — *coming soon*
+94. **Python - dotenv** — *coming soon*
+95. **Python - Blind SSTI Filters Bypass** — *coming soon*
+96. **XPath injection - Blind** — *coming soon*
+97. **SQL injection - Filter bypass** — *coming soon*

@@ -7,64 +7,64 @@
 ## Start Reading
 
 1. **It happens, sometimes** — [read](writeups/1.md)
-2. **Windows - KerbeRoast** — [read]()
-3. **End Droid** — [read]()
-4. **P0wn3d** — [read]()
-5. **IPBX - call me maybe** — [read]()
-6. **Web TV** — [read]()
-7. **SSHocker** — [read]()
-8. **MALab** — [read]()
-9. **Imagick** — [read]()
-10. **Bash - System Disaster** — [read]()
-11. **A bittersweet shellfony** — [read]()
-12. **Well-known** — [read]()
-13. **Starbug Bounty** — [read]()
-14. **Root-We** — [read]()
-15. **Marabout** — [read]()
-16. **Ultra Upload** — [read]()
-17. **Root them** — [read]()
-18. **Neonazi inside** — [read]()
-19. **ComCyber - Challenge** — [read]()
-20. **PyRat Auction** — [read]()
-21. **Windows - Group Policy Preferences Passwords** — [read]()
-22. **The h@ckers l4b** — [read]()
-23. **Windows - ZeroLogon** — [read]()
-24. **Windows - ASRepRoast** — [read]()
-25. **Windows - krbtgt history** — [read]()
-26. **Windows - sAMAccountName spoofing** — [read]()
-27. **Mersenne with 2** — [read]()
-28. **Bash/Awk - netstat parsing** — [read]()
-29. **Breaking Root-Me like it's 2020** — [read]()
-30. **ARM FTP Box** — [read]()
-31. **VPN Provider** — [read]()
-32. **Crypto Secure** — [read]()
-33. **Bozobe Hospital** — [read]()
-34. **SamBox v3** — [read]()
-35. **SAP Pentest 000** — [read]()
-36. **Bohemian RhapC2** — [read]()
-37. **I'm a Bl4ck H4t** — [read]()
-38. **Nodeful** — [read]()
-39. **Texode Back** — [read]()
-40. **Bluebox 2 - Pentest** — [read]()
-41. **SamBox v1** — [read]()
-42. **SAP Pentest 007** — [read]()
-43. **SamBox v2** — [read]()
-44. **Root Me, for real** — [read]()
-45. **Extractor** — [read]()
-46. **Django unchained** — [read]()
-47. **DasBox1: Rififi in the lizardmen** — [read]()
-48. **SamCMS** — [read]()
-49. **Android - Shady VPN** — [read]()
-50. **Red Pills** — [read]()
-51. **BBQ Factory - First Flirt** — [read]()
-52. **Getting root Over it!** — [read]()
-53. **reQUACKier** — [read]()
-54. **Texode** — [read]()
-55. **BBQ Factory - Back To The Grill** — [read]()
-56. **In Your Kubernetass** — [read]()
-57. **DjangocatZ** — [read]()
-58. **Matrix terminal** — [read]()
-59. **Bluebox - Pentest** — [read]()
-60. **C for C-cure** — [read]()
-61. **Highway to shell** — [read]()
-62. **SamBox v4** — [read]()
+2. **Windows - KerbeRoast** — *coming soon*
+3. **End Droid** — *coming soon*
+4. **P0wn3d** — *coming soon*
+5. **IPBX - call me maybe** — *coming soon*
+6. **Web TV** — *coming soon*
+7. **SSHocker** — *coming soon*
+8. **MALab** — *coming soon*
+9. **Imagick** — *coming soon*
+10. **Bash - System Disaster** — *coming soon*
+11. **A bittersweet shellfony** — *coming soon*
+12. **Well-known** — *coming soon*
+13. **Starbug Bounty** — *coming soon*
+14. **Root-We** — *coming soon*
+15. **Marabout** — *coming soon*
+16. **Ultra Upload** — *coming soon*
+17. **Root them** — *coming soon*
+18. **Neonazi inside** — *coming soon*
+19. **ComCyber - Challenge** — *coming soon*
+20. **PyRat Auction** — *coming soon*
+21. **Windows - Group Policy Preferences Passwords** — *coming soon*
+22. **The h@ckers l4b** — *coming soon*
+23. **Windows - ZeroLogon** — *coming soon*
+24. **Windows - ASRepRoast** — *coming soon*
+25. **Windows - krbtgt history** — *coming soon*
+26. **Windows - sAMAccountName spoofing** — *coming soon*
+27. **Mersenne with 2** — *coming soon*
+28. **Bash/Awk - netstat parsing** — *coming soon*
+29. **Breaking Root-Me like it's 2020** — *coming soon*
+30. **ARM FTP Box** — *coming soon*
+31. **VPN Provider** — *coming soon*
+32. **Crypto Secure** — *coming soon*
+33. **Bozobe Hospital** — *coming soon*
+34. **SamBox v3** — *coming soon*
+35. **SAP Pentest 000** — *coming soon*
+36. **Bohemian RhapC2** — *coming soon*
+37. **I'm a Bl4ck H4t** — *coming soon*
+38. **Nodeful** — *coming soon*
+39. **Texode Back** — *coming soon*
+40. **Bluebox 2 - Pentest** — *coming soon*
+41. **SamBox v1** — *coming soon*
+42. **SAP Pentest 007** — *coming soon*
+43. **SamBox v2** — *coming soon*
+44. **Root Me, for real** — *coming soon*
+45. **Extractor** — *coming soon*
+46. **Django unchained** — *coming soon*
+47. **DasBox1: Rififi in the lizardmen** — *coming soon*
+48. **SamCMS** — *coming soon*
+49. **Android - Shady VPN** — *coming soon*
+50. **Red Pills** — *coming soon*
+51. **BBQ Factory - First Flirt** — *coming soon*
+52. **Getting root Over it!** — *coming soon*
+53. **reQUACKier** — *coming soon*
+54. **Texode** — *coming soon*
+55. **BBQ Factory - Back To The Grill** — *coming soon*
+56. **In Your Kubernetass** — *coming soon*
+57. **DjangocatZ** — *coming soon*
+58. **Matrix terminal** — *coming soon*
+59. **Bluebox - Pentest** — *coming soon*
+60. **C for C-cure** — *coming soon*
+61. **Highway to shell** — *coming soon*
+62. **SamBox v4** — *coming soon*

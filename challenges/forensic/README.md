@@ -7,46 +7,46 @@
 ## Start Reading
 
 1. **Deleted file** — [read](writeups/1.md)
-2. **Command & Control - level 2** — [read]()
-3. **MasterKee** — [read]()
-4. **Oh My Grub** — [read]()
-5. **Capture this** — [read]()
-6. **Supply chain attack - Python** — [read]()
-7. **Job interview** — [read]()
-8. **macOS - Keychain** — [read]()
-9. **Malicious Word macro** — [read]()
-10. **Ransomware Android** — [read]()
-11. **iOS - Introduction** — [read]()
-12. **Air-gap exfiltration** — [read]()
-13. **C2 Mythic** — [read]()
-14. **The Artist** — [read]()
-15. **Multi-devices** — [read]()
-16. **Find me** — [read]()
-17. **Second job interview** — [read]()
-18. **Command & Control - level 4** — [read]()
-19. **Homemade keylogger** — [read]()
-20. **Web3 - Put on your mask - Step 1** — [read]()
-21. **Supply chain attack - Docker** — [read]()
-22. **Docker layers** — [read]()
-23. **Windows - LDAP User KerbeRoastable** — [read]()
-24. **Open My Vault** — [read]()
-25. **Windows - NTDS Secret extraction** — [read]()
-26. **Logs analysis - web attack** — [read]()
-27. **Command & Control - level 5** — [read]()
-28. **Find the cat** — [read]()
-29. **Ugly Duckling** — [read]()
-30. **Windows - LDAP User ASRepRoastable** — [read]()
-31. **Active Directory - GPO** — [read]()
-32. **Command & Control - level 3** — [read]()
-33. **DNS exfiltration** — [read]()
-34. **Zeus Bot** — [read]()
-35. **Remote Support** — [read]()
-36. **The Lost Case - Mobile Investigation** — [read]()
-37. **Try again** — [read]()
-38. **Command & Control - level 6** — [read]()
-39. **Find me on Android** — [read]()
-40. **Find me back** — [read]()
-41. **Find me again** — [read]()
-42. **Web3 - Put on your mask - Step 2** — [read]()
-43. **Rootkit - Cold case** — [read]()
-44. **Try again 2** — [read]()
+2. **Command & Control - level 2** — *coming soon*
+3. **MasterKee** — *coming soon*
+4. **Oh My Grub** — *coming soon*
+5. **Capture this** — *coming soon*
+6. **Supply chain attack - Python** — *coming soon*
+7. **Job interview** — *coming soon*
+8. **macOS - Keychain** — *coming soon*
+9. **Malicious Word macro** — *coming soon*
+10. **Ransomware Android** — *coming soon*
+11. **iOS - Introduction** — *coming soon*
+12. **Air-gap exfiltration** — *coming soon*
+13. **C2 Mythic** — *coming soon*
+14. **The Artist** — *coming soon*
+15. **Multi-devices** — *coming soon*
+16. **Find me** — *coming soon*
+17. **Second job interview** — *coming soon*
+18. **Command & Control - level 4** — *coming soon*
+19. **Homemade keylogger** — *coming soon*
+20. **Web3 - Put on your mask - Step 1** — *coming soon*
+21. **Supply chain attack - Docker** — *coming soon*
+22. **Docker layers** — *coming soon*
+23. **Windows - LDAP User KerbeRoastable** — *coming soon*
+24. **Open My Vault** — *coming soon*
+25. **Windows - NTDS Secret extraction** — *coming soon*
+26. **Logs analysis - web attack** — *coming soon*
+27. **Command & Control - level 5** — *coming soon*
+28. **Find the cat** — *coming soon*
+29. **Ugly Duckling** — *coming soon*
+30. **Windows - LDAP User ASRepRoastable** — *coming soon*
+31. **Active Directory - GPO** — *coming soon*
+32. **Command & Control - level 3** — *coming soon*
+33. **DNS exfiltration** — *coming soon*
+34. **Zeus Bot** — *coming soon*
+35. **Remote Support** — *coming soon*
+36. **The Lost Case - Mobile Investigation** — *coming soon*
+37. **Try again** — *coming soon*
+38. **Command & Control - level 6** — *coming soon*
+39. **Find me on Android** — *coming soon*
+40. **Find me back** — *coming soon*
+41. **Find me again** — *coming soon*
+42. **Web3 - Put on your mask - Step 2** — *coming soon*
+43. **Rootkit - Cold case** — *coming soon*
+44. **Try again 2** — *coming soon*

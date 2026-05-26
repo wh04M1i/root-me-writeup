@@ -7,31 +7,31 @@
 ## Start Reading
 
 1. **TCP - Back to school** — [read](writeups/1.md)
-2. **TCP - Encoded string** — [read]()
-3. **TCP - The Roman wheel** — [read]()
-4. **TCP - Uncompress Me** — [read]()
-5. **CAPTCHA me if you can** — [read]()
-6. **WinKern x64 - shellcoding : token stealing** — [read]()
-7. **Quick Response Code** — [read]()
-8. **Ethereum - Reentrancy** — [read]()
-9. **Ethereum - Architect** — [read]()
-10. **ELF x64 - Shellcoding - Polymorphism** — [read]()
-11. **Deep Learning - Captcha** — [read]()
-12. **Adversarial Attack - GAN** — [read]()
-13. **Ethereum - NotSoPriv8** — [read]()
-14. **Ethereum - Bunker** — [read]()
-15. **ARM - Shellcoding - Egg hunter** — [read]()
-16. **Apprentice Scraper** — [read]()
-17. **Various encodings** — [read]()
-18. **Ethereum - Takeover** — [read]()
-19. **Second degree polynomial solver** — [read]()
-20. **Ethereum - tx.origin** — [read]()
-21. **ELF x64 - Shellcoding - Sheep warmup** — [read]()
-22. **Mathematic progression** — [read]()
-23. **Ethereum - Tutoreum** — [read]()
-24. **Deep Learning - Introduction** — [read]()
-25. **Ethereum - BadStack** — [read]()
-26. **ELF x64 - Sandbox shellcoding** — [read]()
-27. **Ethereum - King of the EVM** — [read]()
-28. **ELF x86 - Shellcoding - Alphanumeric** — [read]()
-29. **Adversarial Attack - Prison Break** — [read]()
+2. **TCP - Encoded string** — *coming soon*
+3. **TCP - The Roman wheel** — *coming soon*
+4. **TCP - Uncompress Me** — *coming soon*
+5. **CAPTCHA me if you can** — *coming soon*
+6. **WinKern x64 - shellcoding : token stealing** — *coming soon*
+7. **Quick Response Code** — *coming soon*
+8. **Ethereum - Reentrancy** — *coming soon*
+9. **Ethereum - Architect** — *coming soon*
+10. **ELF x64 - Shellcoding - Polymorphism** — *coming soon*
+11. **Deep Learning - Captcha** — *coming soon*
+12. **Adversarial Attack - GAN** — *coming soon*
+13. **Ethereum - NotSoPriv8** — *coming soon*
+14. **Ethereum - Bunker** — *coming soon*
+15. **ARM - Shellcoding - Egg hunter** — *coming soon*
+16. **Apprentice Scraper** — *coming soon*
+17. **Various encodings** — *coming soon*
+18. **Ethereum - Takeover** — *coming soon*
+19. **Second degree polynomial solver** — *coming soon*
+20. **Ethereum - tx.origin** — *coming soon*
+21. **ELF x64 - Shellcoding - Sheep warmup** — *coming soon*
+22. **Mathematic progression** — *coming soon*
+23. **Ethereum - Tutoreum** — *coming soon*
+24. **Deep Learning - Introduction** — *coming soon*
+25. **Ethereum - BadStack** — *coming soon*
+26. **ELF x64 - Sandbox shellcoding** — *coming soon*
+27. **Ethereum - King of the EVM** — *coming soon*
+28. **ELF x86 - Shellcoding - Alphanumeric** — *coming soon*
+29. **Adversarial Attack - Prison Break** — *coming soon*
