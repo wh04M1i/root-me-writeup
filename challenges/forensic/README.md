@@ -15,7 +15,7 @@
 7. **Job interview** — *coming soon*
 8. **macOS - Keychain** — *coming soon*
 9. **Malicious Word macro** — *coming soon*
-10. **Ransomware Android** — *coming soon*
+10. **Ransomware Android** — [read](writeups/ransomware-android.md)
 11. **iOS - Introduction** — *coming soon*
 12. **Air-gap exfiltration** — *coming soon*
 13. **C2 Mythic** — *coming soon*
@@ -31,7 +31,7 @@
 23. **Windows - LDAP User KerbeRoastable** — *coming soon*
 24. **Open My Vault** — [read](writeups/open-my-vault.md)
 25. **Windows - NTDS Secret extraction** — *coming soon*
-26. **Logs analysis - web attack** — *coming soon*
+26. **Logs analysis - web attack** — [read](writeups/logs-analysis-web-attack.md)
 27. **Command & Control - level 5** — *coming soon*
 28. **Find the cat** — *coming soon*
 29. **Ugly Duckling** — *coming soon*
