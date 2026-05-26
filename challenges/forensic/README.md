@@ -7,10 +7,10 @@
 ## Start Reading
 
 1. **Deleted file** — [read](writeups/1.md)
-2. **Command & Control - level 2** — *coming soon*
+2. **Command & Control - level 2** — [read](writeups/command-control-level-2.md)
 3. **MasterKee** — *coming soon*
-4. **Oh My Grub** — *coming soon*
-5. **Capture this** — *coming soon*
+4. **Oh My Grub** — [read](writeups/oh-my-grub.md)
+5. **Capture this** — [read](writeups/capture-this.md)
 6. **Supply chain attack - Python** — *coming soon*
 7. **Job interview** — *coming soon*
 8. **macOS - Keychain** — *coming soon*
@@ -27,9 +27,9 @@
 19. **Homemade keylogger** — *coming soon*
 20. **Web3 - Put on your mask - Step 1** — *coming soon*
 21. **Supply chain attack - Docker** — *coming soon*
-22. **Docker layers** — *coming soon*
+22. **Docker layers** — [read](writeups/docker-layers.md)
 23. **Windows - LDAP User KerbeRoastable** — *coming soon*
-24. **Open My Vault** — *coming soon*
+24. **Open My Vault** — [read](writeups/open-my-vault.md)
 25. **Windows - NTDS Secret extraction** — *coming soon*
 26. **Logs analysis - web attack** — *coming soon*
 27. **Command & Control - level 5** — *coming soon*
